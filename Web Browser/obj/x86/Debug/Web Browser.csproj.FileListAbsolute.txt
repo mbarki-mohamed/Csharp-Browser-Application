@@ -1,0 +1,23 @@
+C:\Users\aspire\AppData\Local\Temporary Projects\Web Browser\bin\Debug\Web Browser.exe
+C:\Users\aspire\AppData\Local\Temporary Projects\Web Browser\bin\Debug\Web Browser.pdb
+C:\Users\aspire\AppData\Local\Temporary Projects\Web Browser\bin\Debug\en-US\Web Browser.resources.dll
+C:\Users\aspire\AppData\Local\Temporary Projects\Web Browser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aspire\AppData\Local\Temporary Projects\Web Browser\obj\x86\Debug\Web_Browser.Form1.resources
+C:\Users\aspire\AppData\Local\Temporary Projects\Web Browser\obj\x86\Debug\Web_Browser.Properties.Resources.resources
+C:\Users\aspire\AppData\Local\Temporary Projects\Web Browser\obj\x86\Debug\Web_Browser.Form1.en-US.resources
+C:\Users\aspire\AppData\Local\Temporary Projects\Web Browser\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\aspire\AppData\Local\Temporary Projects\Web Browser\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\aspire\AppData\Local\Temporary Projects\Web Browser\obj\x86\Debug\en-US\Web Browser.resources.dll
+C:\Users\aspire\AppData\Local\Temporary Projects\Web Browser\obj\x86\Debug\Web Browser.exe
+C:\Users\aspire\AppData\Local\Temporary Projects\Web Browser\obj\x86\Debug\Web Browser.pdb
+C:\Users\aspire\documents\visual studio 2010\Projects\Web Browser\Web Browser\obj\x86\Debug\Web Browser.exe
+C:\Users\aspire\documents\visual studio 2010\Projects\Web Browser\Web Browser\obj\x86\Debug\Web Browser.pdb
+C:\Users\aspire\documents\visual studio 2010\Projects\Web Browser\Web Browser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aspire\documents\visual studio 2010\Projects\Web Browser\Web Browser\obj\x86\Debug\Web_Browser.about.resources
+C:\Users\aspire\documents\visual studio 2010\Projects\Web Browser\Web Browser\obj\x86\Debug\Web_Browser.Form1.resources
+C:\Users\aspire\documents\visual studio 2010\Projects\Web Browser\Web Browser\obj\x86\Debug\Web_Browser.Properties.Resources.resources
+C:\Users\aspire\documents\visual studio 2010\Projects\Web Browser\Web Browser\obj\x86\Debug\Web_Browser.source.resources
+C:\Users\aspire\documents\visual studio 2010\Projects\Web Browser\Web Browser\obj\x86\Debug\Web_Browser.Form1.en-US.resources
+C:\Users\aspire\documents\visual studio 2010\Projects\Web Browser\Web Browser\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\aspire\documents\visual studio 2010\Projects\Web Browser\Web Browser\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\aspire\documents\visual studio 2010\Projects\Web Browser\Web Browser\obj\x86\Debug\en-US\Web Browser.resources.dll

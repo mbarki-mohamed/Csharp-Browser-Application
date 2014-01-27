@@ -1,0 +1,14 @@
+C:\Users\aspire\Documents\Visual Studio 2010\Projects\Web Browser\Web Browser\bin\Release\Web Browser.exe
+C:\Users\aspire\Documents\Visual Studio 2010\Projects\Web Browser\Web Browser\bin\Release\Web Browser.pdb
+C:\Users\aspire\Documents\Visual Studio 2010\Projects\Web Browser\Web Browser\bin\Release\en-US\Web Browser.resources.dll
+C:\Users\aspire\Documents\Visual Studio 2010\Projects\Web Browser\Web Browser\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\aspire\Documents\Visual Studio 2010\Projects\Web Browser\Web Browser\obj\x86\Release\Web_Browser.Form1.resources
+C:\Users\aspire\Documents\Visual Studio 2010\Projects\Web Browser\Web Browser\obj\x86\Release\Web_Browser.Properties.Resources.resources
+C:\Users\aspire\Documents\Visual Studio 2010\Projects\Web Browser\Web Browser\obj\x86\Release\Web_Browser.Form1.en-US.resources
+C:\Users\aspire\Documents\Visual Studio 2010\Projects\Web Browser\Web Browser\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\aspire\Documents\Visual Studio 2010\Projects\Web Browser\Web Browser\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\aspire\Documents\Visual Studio 2010\Projects\Web Browser\Web Browser\obj\x86\Release\en-US\Web Browser.resources.dll
+C:\Users\aspire\Documents\Visual Studio 2010\Projects\Web Browser\Web Browser\obj\x86\Release\Web Browser.exe
+C:\Users\aspire\Documents\Visual Studio 2010\Projects\Web Browser\Web Browser\obj\x86\Release\Web Browser.pdb
+C:\Users\aspire\Documents\Visual Studio 2010\Projects\Web Browser\Web Browser\obj\x86\Release\Web_Browser.about.resources
+C:\Users\aspire\documents\visual studio 2010\Projects\Web Browser\Web Browser\obj\x86\Release\Web_Browser.source.resources
